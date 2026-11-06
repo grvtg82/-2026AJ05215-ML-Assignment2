@@ -34,9 +34,7 @@ The dataset contains numerical features describing the frequencies of words, cha
 The data was checked for missing values, duplicate records and feature values. Exact duplicate records were removed. A 70% training and 30% testing split was used. Normalisation was applied where required.
 
 ## 3. GitHub Repository Link
-
-[Add the GitHub repository link after the repository has been created.]
-
+https://github.com/grvtg82/-2026AJ05215-ML-Assignment2
 ## 4. Models Used and Evaluation Results
 
 The following five models were trained and tested:
