@@ -13,8 +13,19 @@ from sklearn.metrics import (
     confusion_matrix
 )
 
-st.title("Spambase Classification")
+
+st.title("Machine Learning Assignment 2")
+
+st.subheader("Spambase Classification")
+
+st.write("**Name:** GAURAV MUKESH SHARMA TYAGI")
+st.write("**BITS ID:** 2026AJ05215")
+st.write("**Course:** Machine Learning (AIML ZG565)")
+
+st.divider()
+
 st.write("Comparison of five Machine Learning classifiers")
+
 
 # Upload test data
 uploaded_file = st.file_uploader("Upload test_data.csv", type="csv")
